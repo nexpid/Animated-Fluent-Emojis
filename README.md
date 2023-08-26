@@ -36,7 +36,7 @@ All the Microsoft animated fluent emojis are available in one place and ready to
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [Give a star to this project](https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis)<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> [Follow Me on Github](https://github.com/Tarikul-Islam-Anik)<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="23" height="23" /> [Buy me a coffee](https://ko-fi.com/oxyzen) 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="23" height="23" /> [Buy me a coffee](https://ko-fi.com/oxyzen)
 
 ## Previews:
 
