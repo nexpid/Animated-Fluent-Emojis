@@ -1,4 +1,4 @@
-export default {
+({
   "Video game": "🎮",
   "Black bird": "🐦‍⬛",
   Donkey: "🫏",
@@ -20,4 +20,4 @@ export default {
   "Pink heart": "🩷",
   "Shaking face": "🫨",
   Khanda: "🪯",
-};
+});
